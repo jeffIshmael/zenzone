@@ -122,7 +122,7 @@ export default function Home() {
             </h2>
 
             <p className="mx-auto mt-4 max-w-sm text-gray-500">
-              "Take Action Today: Offset Your Carbon Footprint. Join ZenZone Ledger for Transparent, Secure, and Sustainable Climate Solutions. Make a Difference!"
+            `&quot;`Take Action Today: Offset Your Carbon Footprint. Join ZenZone Ledger for Transparent, Secure, and Sustainable Climate Solutions. Make a Difference!`&quot;`
             </p>
 
             <Link
