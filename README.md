@@ -25,65 +25,12 @@ With growing concerns over climate change, there is an urgent need for transpare
 - **Project Submission and Validation:** Offsetters can submit their projects for approval by validators, ensuring that only credible projects receive funding.
 - **Funding for Approved Projects:** Once a project is approved by validators, the offsetter receives the necessary funding to implement their carbon offset initiatives.
 
-## Getting Started
-
-### Prerequisites
-
-- Node.js
-- npm or yarn
-- Celo Wallet
-
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/jeffIshmael/zenzone.git
-   cd zenzone
-   ```
-
-2. Install the dependencies:
-
-   ```bash
-   npm install
-   ```
-
-   or
-
-   ```bash
-   yarn install
-   ```
-
-3. Set up your Celo wallet and connect it to the Celo network.
-
-### Configuration
-
-Create a `.env` file in the root directory and add the following environment variables:
-
-```env
-CELO_NETWORK_URL=<Your Celo Network URL>
-CELO_WALLET_PRIVATE_KEY=<Your Celo Wallet Private Key>
-```
-
-## Usage
-
-### Running the Application
-
-To start the application, use the following command:
-
-```bash
-npm start
-```
-
-or
-
-```bash
-yarn start
-```
 
 ### Interacting with the Platform
 
 1. **Register as a Buyer or Offsetter:** Sign up on the platform to start participating in the carbon credit market.
+![alt text](<Screenshot from 2024-06-29 08-45-22.png>)
+![alt text](<Screenshot from 2024-06-29 08-45-49.png>)
 2. **Buy Carbon Credits:** Buyers can purchase carbon credits directly through the platform.
 3. **Submit Offset Projects:** Offsetters can submit their projects detailing how they plan to offset carbon emissions.
 4. **Project Validation:** Validators review and approve credible projects.
@@ -106,7 +53,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or inquiries, please contact us at [jeff@zenzone.com](mailto:jeff@zenzone.com).
+For any questions or inquiries, please contact us at [jeff@zenzone.com](mailto:jeffishmael141@gmail.com).
 
 ---
 
